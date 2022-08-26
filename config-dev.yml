@@ -1,2 +1,2 @@
 config:
-    info:"springcloud-config,version=1 xf dev"
+  info: "springcloud-config,version=1 xf test"
